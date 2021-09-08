@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "J.K. Rouling",
+        "year": 1999,
+        "price": 450
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante",
+        "year": 1320,
+        "price": 550
+    }
+]
